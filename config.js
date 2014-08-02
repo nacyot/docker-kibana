@@ -7,6 +7,7 @@ define(['settings'],
              kibana_index: "kibana-int",
              panel_names: [
                'histogram',
+               'pie',
                'map',
                'goal',
                'table',
